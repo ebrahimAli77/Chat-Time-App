@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485480435403",
+    "project_id": "chat-time-bdf05",
+    "storage_bucket": "chat-time-bdf05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485480435403:android:e8622d889119d84d3dd54e",
+        "android_client_info": {
+          "package_name": "com.magladi.chat_time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485480435403-sut5st3mbqrmvnvgane46d8m0clampt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTV5gzpiSDnXtTVHpUuGCH6AbhyRUSZYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485480435403-sut5st3mbqrmvnvgane46d8m0clampt9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
